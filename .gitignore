@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+*.nii
+*.nii.gz
+*.h5
+*.tfrecord
+*.ckpt
+logs/
+.env
