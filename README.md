@@ -30,7 +30,7 @@ This project implements a U-Net based deep learning model for brain tumor segmen
 - **Data split**: 
   - Training: ~68% 
   - Validation: 20%
-  - Testing: 15%
+  - Testing: 12%
 - **Modalities used**: FLAIR and T1ce (selected for optimal performance)
 
 ### MRI Modalities
