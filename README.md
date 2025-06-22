@@ -25,7 +25,7 @@ This project implements a U-Net based deep learning model for brain tumor segmen
 ## Dataset
 
 ### BraTS2020 Dataset
-- **Source**: MICCAI BraTS2020 Challenge (https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
+- **Source**: [MICCAI BraTS2020 Challenge](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
 - **Total samples**: 369 cases (after removing corrupted samples)
 - **Data split**: 
   - Training: ~68% 
@@ -194,9 +194,13 @@ Visual comparison includes:
 
 ## References
 
-- BraTS2020 Challenge Dataset (https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
-- Brain Tumor Segmentation using U-Net (https://www.kaggle.com/code/zeeshanlatif/brain-tumor-segmentation-using-u-net)
-- U-Net Architecture Coursera (https://www.coursera.org/learn/convolutional-neural-networks/lecture/GIIWY/u-net-architecture)
+- [BraTS2020 Challenge Dataset](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
+- [Brain Tumor Segmentation using U-Net](https://www.kaggle.com/code/zeeshanlatif/brain-tumor-segmentation-using-u-net)
+- [U-Net Architecture Coursera](https://www.coursera.org/learn/convolutional-neural-networks/lecture/GIIWY/u-net-architecture)
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
